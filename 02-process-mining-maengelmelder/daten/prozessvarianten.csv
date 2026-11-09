@@ -1,0 +1,127 @@
+Variante;Faelle;Anteil_Prozent;Median_Ticketdauer_Tage;Reale_Events_je_Fall
+Erstellt > geschlossen;3016;22,48;16,96;0,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > geschlossen;2554;19,03;5,72;2,00
+Erstellt > Weitergeleitet > geschlossen;1706;12,71;2,88;1,00
+Erstellt > Eingangsbestätigung > geschlossen;1241;9,25;2,96;1,00
+Erstellt > Verzögerung / Kapazitätshinweis > Behoben / Erledigt > geschlossen;777;5,79;4,86;2,00
+Erstellt > Nicht zuständig > geschlossen;694;5,17;0,69;1,00
+Erstellt > In Bearbeitung / Prüfung / Planung > geschlossen;454;3,38;0,79;1,00
+Erstellt > Weitergeleitet > Behoben / Erledigt > geschlossen;331;2,47;44,50;2,00
+Erstellt > Bereits bekannt / Doppelmeldung > geschlossen;301;2,24;0,55;1,00
+Erstellt > Behoben / Erledigt > geschlossen;283;2,11;5,08;1,00
+Erstellt > Turnus / regelmäßige Maßnahme > geschlossen;275;2,05;0,72;1,00
+Erstellt > Turnus / regelmäßige Maßnahme > Behoben / Erledigt > geschlossen;254;1,89;7,13;2,00
+Erstellt > Eingangsbestätigung > Rückfrage / unklare Meldung > geschlossen;249;1,86;5,72;2,00
+Erstellt > Sonstiges > geschlossen;174;1,30;4,62;1,00
+Erstellt > Verzögerung / Kapazitätshinweis > geschlossen;169;1,26;2,87;1,00
+Erstellt > Nicht möglich / noch zeitliche Abstimmung > geschlossen;151;1,13;0,79;1,00
+Erstellt > Weitergeleitet > Sonstiges > geschlossen;102;0,76;11,86;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Rückfrage / unklare Meldung > geschlossen;83;0,62;4,92;2,00
+Erstellt > Weitergeleitet > Rückfrage / unklare Meldung > geschlossen;50;0,37;78,11;2,00
+Erstellt > Weitergeleitet > In Bearbeitung / Prüfung / Planung > geschlossen;46;0,34;3,76;2,00
+Erstellt > Rückfrage / unklare Meldung > geschlossen;40;0,30;5,81;1,00
+Erstellt > Weitergeleitet > Eingangsbestätigung > geschlossen;34;0,25;15,10;2,00
+Erstellt > Eingangsbestätigung > Nicht zuständig > geschlossen;26;0,19;3,92;2,00
+Erstellt > Weitergeleitet > Weitergeleitet > geschlossen;22;0,16;8,23;2,00
+Erstellt > Weitergeleitet > geschlossen > In Bearbeitung / Prüfung / Planung;21;0,16;0,51;2,00
+Erstellt > Weitergeleitet > Turnus / regelmäßige Maßnahme > geschlossen;21;0,16;5,86;2,00
+Erstellt > In Bearbeitung / Prüfung / Planung > Behoben / Erledigt > geschlossen;20;0,15;5,25;2,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > geschlossen;18;0,13;5,47;2,00
+Erstellt > Weitergeleitet > Nicht zuständig > geschlossen;18;0,13;12,84;2,00
+Erstellt > Weitergeleitet > geschlossen > Sonstiges;15;0,11;0,69;2,00
+Erstellt > geschlossen > In Bearbeitung / Prüfung / Planung;14;0,10;0,91;1,00
+Erstellt > Weitergeleitet > Nicht möglich / noch zeitliche Abstimmung > geschlossen;13;0,10;2,88;2,00
+Erstellt > Eingangsbestätigung > Sonstiges > geschlossen;13;0,10;8,74;2,00
+Erstellt > Nicht zuständig > Behoben / Erledigt > geschlossen;11;0,08;5,04;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Nicht zuständig > geschlossen;11;0,08;6,01;2,00
+Erstellt > Eingangsbestätigung > geschlossen > Behoben / Erledigt;10;0,07;1,86;2,00
+Erstellt > geschlossen > Weitergeleitet;10;0,07;0,80;1,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > Behoben / Erledigt > geschlossen;10;0,07;4,72;3,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > geschlossen > Behoben / Erledigt;9;0,07;6,21;3,00
+Erstellt > Behoben / Erledigt > Behoben / Erledigt > geschlossen;9;0,07;8,03;2,00
+Erstellt > Eingangsbestätigung > Bereits bekannt / Doppelmeldung > geschlossen;7;0,05;7,10;2,00
+Erstellt > geschlossen > Eingangsbestätigung;6;0,04;1,74;1,00
+Erstellt > Weitergeleitet > geschlossen > Weitergeleitet;6;0,04;2,56;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Sonstiges > geschlossen;6;0,04;7,82;2,00
+Erstellt > Turnus / regelmäßige Maßnahme > Rückfrage / unklare Meldung > geschlossen;6;0,04;9,09;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > geschlossen > Behoben / Erledigt;6;0,04;0,57;2,00
+Erstellt > Turnus / regelmäßige Maßnahme > Eingangsbestätigung > geschlossen;6;0,04;5,61;2,00
+Erstellt > Eingangsbestätigung > Weitergeleitet > geschlossen;6;0,04;5,00;2,00
+Erstellt > geschlossen > Sonstiges;5;0,04;2,76;1,00
+Erstellt > Verzögerung / Kapazitätshinweis > Eingangsbestätigung > geschlossen;4;0,03;8,32;2,00
+Erstellt > Nicht zuständig > Nicht zuständig > geschlossen;4;0,03;3,39;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Rückfrage / unklare Meldung > geschlossen > Behoben / Erledigt;4;0,03;5,77;3,00
+Erstellt > Eingangsbestätigung > Turnus / regelmäßige Maßnahme > geschlossen;4;0,03;31,67;2,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > geschlossen > Behoben / Erledigt;4;0,03;5,85;3,00
+Erstellt > Weitergeleitet > Sonstiges > Sonstiges > geschlossen;3;0,02;24,96;3,00
+Erstellt > In Bearbeitung / Prüfung / Planung > Rückfrage / unklare Meldung > geschlossen;3;0,02;4,85;2,00
+Erstellt > geschlossen > Behoben / Erledigt;3;0,02;0,48;1,00
+Erstellt > Eingangsbestätigung > Rückfrage / unklare Meldung > geschlossen > Behoben / Erledigt;2;0,01;2,85;3,00
+Erstellt > geschlossen > Turnus / regelmäßige Maßnahme;2;0,01;2,21;1,00
+Erstellt > Eingangsbestätigung > Nicht möglich / noch zeitliche Abstimmung > geschlossen;2;0,01;50,70;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Eingangsbestätigung > geschlossen > Behoben / Erledigt;2;0,01;10,31;3,00
+Erstellt > In Bearbeitung / Prüfung / Planung > Eingangsbestätigung > geschlossen;2;0,01;288,01;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > In Bearbeitung / Prüfung / Planung > geschlossen;2;0,01;150,22;2,00
+Erstellt > Weitergeleitet > geschlossen > Behoben / Erledigt;2;0,01;27,20;2,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > geschlossen > Rückfrage / unklare Meldung;2;0,01;8,97;3,00
+Erstellt > Turnus / regelmäßige Maßnahme > Turnus / regelmäßige Maßnahme > Behoben / Erledigt > geschlossen;2;0,01;3,46;3,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > Behoben / Erledigt > geschlossen > Behoben / Erledigt;2;0,01;2,56;4,00
+Erstellt > In Bearbeitung / Prüfung / Planung > Sonstiges > geschlossen;2;0,01;19,31;2,00
+Erstellt > Weitergeleitet > Eingangsbestätigung > Behoben / Erledigt > geschlossen;2;0,01;24,91;3,00
+Erstellt > Nicht zuständig > geschlossen > Nicht zuständig;1;0,01;0,53;2,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > Rückfrage / unklare Meldung > geschlossen;1;0,01;7,22;3,00
+Erstellt > Weitergeleitet > geschlossen > Turnus / regelmäßige Maßnahme;1;0,01;23,78;2,00
+Erstellt > Turnus / regelmäßige Maßnahme > geschlossen > Turnus / regelmäßige Maßnahme;1;0,01;0,71;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Behoben / Erledigt > Rückfrage / unklare Meldung > geschlossen;1;0,01;4,73;3,00
+Erstellt > Turnus / regelmäßige Maßnahme > Turnus / regelmäßige Maßnahme > geschlossen;1;0,01;9,03;2,00
+Erstellt > Turnus / regelmäßige Maßnahme > Nicht zuständig > geschlossen;1;0,01;19,07;2,00
+Erstellt > Verzögerung / Kapazitätshinweis > Turnus / regelmäßige Maßnahme > geschlossen;1;0,01;0,68;2,00
+Erstellt > Nicht möglich / noch zeitliche Abstimmung > geschlossen > In Bearbeitung / Prüfung / Planung;1;0,01;0,85;2,00
+Erstellt > geschlossen > Nicht möglich / noch zeitliche Abstimmung;1;0,01;3,17;1,00
+Erstellt > Weitergeleitet > geschlossen > Rückfrage / unklare Meldung;1;0,01;5,00;2,00
+Erstellt > Turnus / regelmäßige Maßnahme > Nicht möglich / noch zeitliche Abstimmung > geschlossen;1;0,01;11,62;2,00
+Erstellt > In Bearbeitung / Prüfung / Planung > geschlossen > Nicht zuständig;1;0,01;0,03;2,00
+Erstellt > Eingangsbestätigung > Verzögerung / Kapazitätshinweis > geschlossen;1;0,01;3,88;2,00
+Erstellt > Eingangsbestätigung > geschlossen > Rückfrage / unklare Meldung;1;0,01;0,08;2,00
+Erstellt > Rückfrage / unklare Meldung > Nicht zuständig > geschlossen;1;0,01;3,05;2,00
+geschlossen > Erstellt;1;0,01;-0,00;0,00
+Erstellt > Weitergeleitet > Sonstiges > geschlossen > Sonstiges;1;0,01;0,72;3,00
+Erstellt > Nicht zuständig > Verzögerung / Kapazitätshinweis > Behoben / Erledigt > geschlossen;1;0,01;2,71;3,00
+Erstellt > Weitergeleitet > geschlossen > Eingangsbestätigung;1;0,01;13,22;2,00
+Erstellt > Weitergeleitet > Nicht zuständig > Behoben / Erledigt > geschlossen;1;0,01;4,61;3,00
+Erstellt > Behoben / Erledigt > Weitergeleitet > geschlossen;1;0,01;59,06;2,00
+Erstellt > Behoben / Erledigt > Rückfrage / unklare Meldung > geschlossen;1;0,01;2,96;2,00
+Erstellt > Weitergeleitet > Weitergeleitet > Behoben / Erledigt > geschlossen;1;0,01;126,09;3,00
+Erstellt > Nicht möglich / noch zeitliche Abstimmung > Behoben / Erledigt > geschlossen;1;0,01;9,60;2,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > Rückfrage / unklare Meldung > geschlossen;1;0,01;7,17;3,00
+Erstellt > Weitergeleitet > Eingangsbestätigung > Turnus / regelmäßige Maßnahme > geschlossen;1;0,01;46,89;3,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > Behoben / Erledigt > geschlossen;1;0,01;3,82;3,00
+Erstellt > Verzögerung / Kapazitätshinweis > geschlossen > Sonstiges;1;0,01;0,60;2,00
+Erstellt > Nicht möglich / noch zeitliche Abstimmung > geschlossen > Sonstiges;1;0,01;2,49;2,00
+Erstellt > Weitergeleitet > Nicht zuständig > geschlossen > Behoben / Erledigt;1;0,01;0,00;3,00
+Erstellt > Weitergeleitet > Verzögerung / Kapazitätshinweis > geschlossen;1;0,01;92,50;2,00
+Erstellt > Eingangsbestätigung > Bereits bekannt / Doppelmeldung > Behoben / Erledigt > geschlossen;1;0,01;2,90;3,00
+Erstellt > Eingangsbestätigung > Behoben / Erledigt > geschlossen > In Bearbeitung / Prüfung / Planung > Behoben / Erledigt;1;0,01;17,71;4,00
+Erstellt > Eingangsbestätigung > Eingangsbestätigung > Nicht zuständig > geschlossen;1;0,01;2,93;3,00
+Erstellt > Behoben / Erledigt > geschlossen > Behoben / Erledigt;1;0,01;3,71;2,00
+Erstellt > In Bearbeitung / Prüfung / Planung > geschlossen > Sonstiges;1;0,01;0,01;2,00
+Erstellt > Nicht möglich / noch zeitliche Abstimmung > In Bearbeitung / Prüfung / Planung > geschlossen;1;0,01;2,82;2,00
+Erstellt > Weitergeleitet > In Bearbeitung / Prüfung / Planung > Sonstiges > geschlossen;1;0,01;40,74;3,00
+Erstellt > Weitergeleitet > geschlossen > Eingangsbestätigung > Behoben / Erledigt;1;0,01;0,45;3,00
+Erstellt > Eingangsbestätigung > In Bearbeitung / Prüfung / Planung > geschlossen;1;0,01;486,97;2,00
+Erstellt > Eingangsbestätigung > Sonstiges > Behoben / Erledigt > geschlossen;1;0,01;27,05;3,00
+Erstellt > Weitergeleitet > geschlossen > Nicht zuständig;1;0,01;0,03;2,00
+Erstellt > Eingangsbestätigung > geschlossen > Nicht zuständig;1;0,01;0,07;2,00
+Erstellt > Weitergeleitet > Eingangsbestätigung > Rückfrage / unklare Meldung > geschlossen;1;0,01;1,43;3,00
+Erstellt > geschlossen > Nicht zuständig;1;0,01;10,78;1,00
+Erstellt > Behoben / Erledigt > geschlossen > Behoben / Erledigt > Behoben / Erledigt;1;0,01;3,79;3,00
+Erstellt > Turnus / regelmäßige Maßnahme > Behoben / Erledigt > geschlossen > Behoben / Erledigt;1;0,01;0,02;3,00
+Erstellt > Weitergeleitet > Sonstiges > Nicht zuständig > geschlossen;1;0,01;0,94;3,00
+Erstellt > Weitergeleitet > Turnus / regelmäßige Maßnahme > Behoben / Erledigt > geschlossen;1;0,01;10,75;3,00
+Erstellt > Weitergeleitet > Weitergeleitet > Weitergeleitet > geschlossen;1;0,01;4,86;3,00
+Erstellt > Weitergeleitet > Turnus / regelmäßige Maßnahme > In Bearbeitung / Prüfung / Planung > geschlossen;1;0,01;14,99;3,00
+Erstellt > Eingangsbestätigung > Weitergeleitet > Sonstiges > geschlossen;1;0,01;2,55;3,00
+Erstellt > Nicht zuständig > In Bearbeitung / Prüfung / Planung > geschlossen;1;0,01;1,76;2,00
+Erstellt > In Bearbeitung / Prüfung / Planung > Weitergeleitet > geschlossen;1;0,01;8,86;2,00
+Erstellt > Sonstiges > Weitergeleitet > geschlossen;1;0,01;4,87;2,00
+Erstellt > Sonstiges > Sonstiges > geschlossen;1;0,01;36,01;2,00

@@ -1,0 +1,89 @@
+Von;Nach;Anzahl
+Behoben / Erledigt;geschlossen;4278
+Erstellt;Eingangsbestätigung;4171
+Erstellt;geschlossen;3058
+Eingangsbestätigung;Behoben / Erledigt;2583
+Erstellt;Weitergeleitet;2409
+Weitergeleitet;geschlossen;1787
+Eingangsbestätigung;geschlossen;1323
+Erstellt;Verzögerung / Kapazitätshinweis;1067
+Verzögerung / Kapazitätshinweis;Behoben / Erledigt;779
+Nicht zuständig;geschlossen;759
+Erstellt;Nicht zuständig;712
+Erstellt;Turnus / regelmäßige Maßnahme;548
+In Bearbeitung / Prüfung / Planung;geschlossen;508
+Erstellt;In Bearbeitung / Prüfung / Planung;484
+Rückfrage / unklare Meldung;geschlossen;442
+Weitergeleitet;Behoben / Erledigt;332
+Bereits bekannt / Doppelmeldung;geschlossen;308
+Turnus / regelmäßige Maßnahme;geschlossen;304
+Sonstiges;geschlossen;304
+Erstellt;Bereits bekannt / Doppelmeldung;301
+Erstellt;Behoben / Erledigt;296
+Turnus / regelmäßige Maßnahme;Behoben / Erledigt;258
+Eingangsbestätigung;Rückfrage / unklare Meldung;253
+Verzögerung / Kapazitätshinweis;geschlossen;178
+Erstellt;Sonstiges;176
+Nicht möglich / noch zeitliche Abstimmung;geschlossen;169
+Erstellt;Nicht möglich / noch zeitliche Abstimmung;155
+Weitergeleitet;Sonstiges;108
+Verzögerung / Kapazitätshinweis;Rückfrage / unklare Meldung;87
+Weitergeleitet;Rückfrage / unklare Meldung;50
+geschlossen;Behoben / Erledigt;48
+Weitergeleitet;In Bearbeitung / Prüfung / Planung;47
+Erstellt;Rückfrage / unklare Meldung;41
+Weitergeleitet;Eingangsbestätigung;38
+geschlossen;In Bearbeitung / Prüfung / Planung;37
+Eingangsbestätigung;Eingangsbestätigung;36
+Eingangsbestätigung;Nicht zuständig;27
+Weitergeleitet;Weitergeleitet;25
+geschlossen;Sonstiges;24
+Weitergeleitet;Turnus / regelmäßige Maßnahme;23
+In Bearbeitung / Prüfung / Planung;Behoben / Erledigt;21
+Weitergeleitet;Nicht zuständig;20
+geschlossen;Weitergeleitet;16
+Eingangsbestätigung;Sonstiges;14
+Weitergeleitet;Nicht möglich / noch zeitliche Abstimmung;13
+Nicht zuständig;Behoben / Erledigt;12
+Verzögerung / Kapazitätshinweis;Nicht zuständig;11
+Behoben / Erledigt;Behoben / Erledigt;11
+geschlossen;Eingangsbestätigung;8
+Eingangsbestätigung;Bereits bekannt / Doppelmeldung;8
+Eingangsbestätigung;Weitergeleitet;7
+Verzögerung / Kapazitätshinweis;Sonstiges;6
+Turnus / regelmäßige Maßnahme;Rückfrage / unklare Meldung;6
+Turnus / regelmäßige Maßnahme;Eingangsbestätigung;6
+Verzögerung / Kapazitätshinweis;Eingangsbestätigung;6
+geschlossen;Nicht zuständig;5
+Eingangsbestätigung;Turnus / regelmäßige Maßnahme;5
+geschlossen;Turnus / regelmäßige Maßnahme;4
+Nicht zuständig;Nicht zuständig;4
+geschlossen;Rückfrage / unklare Meldung;4
+Sonstiges;Sonstiges;4
+Behoben / Erledigt;Rückfrage / unklare Meldung;3
+Turnus / regelmäßige Maßnahme;Turnus / regelmäßige Maßnahme;3
+In Bearbeitung / Prüfung / Planung;Rückfrage / unklare Meldung;3
+In Bearbeitung / Prüfung / Planung;Sonstiges;3
+Eingangsbestätigung;Nicht möglich / noch zeitliche Abstimmung;2
+In Bearbeitung / Prüfung / Planung;Eingangsbestätigung;2
+Verzögerung / Kapazitätshinweis;In Bearbeitung / Prüfung / Planung;2
+Turnus / regelmäßige Maßnahme;Nicht zuständig;1
+Verzögerung / Kapazitätshinweis;Turnus / regelmäßige Maßnahme;1
+geschlossen;Nicht möglich / noch zeitliche Abstimmung;1
+Turnus / regelmäßige Maßnahme;Nicht möglich / noch zeitliche Abstimmung;1
+Eingangsbestätigung;Verzögerung / Kapazitätshinweis;1
+Rückfrage / unklare Meldung;Nicht zuständig;1
+geschlossen;Erstellt;1
+Nicht zuständig;Verzögerung / Kapazitätshinweis;1
+Behoben / Erledigt;Weitergeleitet;1
+Nicht möglich / noch zeitliche Abstimmung;Behoben / Erledigt;1
+Weitergeleitet;Verzögerung / Kapazitätshinweis;1
+Bereits bekannt / Doppelmeldung;Behoben / Erledigt;1
+Nicht möglich / noch zeitliche Abstimmung;In Bearbeitung / Prüfung / Planung;1
+Eingangsbestätigung;In Bearbeitung / Prüfung / Planung;1
+Sonstiges;Behoben / Erledigt;1
+Sonstiges;Nicht zuständig;1
+Turnus / regelmäßige Maßnahme;In Bearbeitung / Prüfung / Planung;1
+Nicht zuständig;In Bearbeitung / Prüfung / Planung;1
+In Bearbeitung / Prüfung / Planung;Weitergeleitet;1
+Sonstiges;Weitergeleitet;1
